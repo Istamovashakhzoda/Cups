@@ -1,23 +1,23 @@
-// /* To apply this animation to your website, paste the following into your HTML code:
-// <iframe src="https://codepen.io/tommyho/full/abQaRVZ" width=500 height=500></iframe>
-// */
+/* To apply this animation to your website, paste the following into your HTML code:
+<iframe src="https://codepen.io/tommyho/full/abQaRVZ" width=500 height=500></iframe>
+*/
 
-// /*
-//   Sources:
-//   https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/6-physics-libraries/1-matterjs-introduction
-//   Revised by: tommyho510@gmail.com   
-// */
+/*
+  Sources:
+  https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/6-physics-libraries/1-matterjs-introduction
+  Revised by: tommyho510@gmail.com   
+*/
 
-// /* --- System Parameters (Recommended)--- */
-// let pSize =     10;    // Define particle size (10)
-// let pBorder =   50;   // Define left and right border (50)
-// let pMargin =   10;   // Define top margin (10)
-// let pDelay =    30;   // Define particle cycle delay (30)
-// let pBounce =   0.8;  // Define Bounciness (0.8)
-// let pFriction = 0.01; // Define air friction / drip speed (0.01)
-// // mouse click in mid-air to create more particles
+/* --- System Parameters (Recommended)--- */
+let pSize =     10;    
+let pBorder =   50;   
+let pMargin =   10;   
+let pDelay =    30;   
+let pBounce =   0.8;  
+let pFriction = 0.01;
+// mouse click in mid-air to create more particles
 
-// /* --- Main Program: DO NOT EDIT BELOW --- */
+/* --- Main Program: DO NOT EDIT BELOW --- */
 // let w = window.innerWidth;
 // let h = window.innerHeight;
 
